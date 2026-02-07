@@ -16,7 +16,7 @@ Currently Learning:
 System Design • Advanced React Patterns • Scalable Architectures
 
 📫 Let's Connect
-💼 LinkedIn: (Add your link)
-🌐 Portfolio: (Add your deployed site)
-📧 Email: (Add your email)
+💼 LinkedIn: https://www.linkedin.com/in/mayank-sahu-29a48a244/
+🌐 Portfolio: https://new-portfolio-omega-ebon-75.vercel.app
+📧 Email: mayanksahutms@gmail.com
 ⭐ Always open to collaborating on impactful projects and innovative ideas.
