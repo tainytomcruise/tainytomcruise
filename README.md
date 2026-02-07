@@ -1,9 +1,22 @@
-- 👋 Hi, I’m @tainytomcruise
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning full stack and cloud computing
-- 📫 I'll always be onine
+Hi, I'm Mayank 👋
+🚀 Frontend Developer | React Specialist | AI-powered Web Apps
+I build modern, scalable, and user-focused web applications using cutting-edge technologies. Passionate about turning complex problems into simple, beautiful, and high-performing products.
+🔥 About Me
+🎓 Pursuing Master of Computer Applications (MCA)
+💻 Focused on React, Next.js, and modern JavaScript
+🤖 Building AI-powered applications
+🌍 Actively seeking remote software development opportunities
+📈 Constantly improving in DSA and system design fundamentals
+🛠 Tech Stack
+Frontend:
+React • Next.js • JavaScript • HTML • CSS • Tailwind
+Backend & Tools:
+Firebase • Node.js • REST APIs • Git • Vercel
+Currently Learning:
+System Design • Advanced React Patterns • Scalable Architectures
 
-<!---
-tainytomcruise/tainytomcruise is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📫 Let's Connect
+💼 LinkedIn: (Add your link)
+🌐 Portfolio: (Add your deployed site)
+📧 Email: (Add your email)
+⭐ Always open to collaborating on impactful projects and innovative ideas.
