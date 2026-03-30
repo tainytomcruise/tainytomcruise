@@ -41,6 +41,8 @@ PostgreSQL | MongoDB | Firebase | AWS (EC2, S3)
 - Used embeddings and cosine similarity for response scoring  
 - Designed scalable backend APIs for multiple sessions  
 
+👉 https://ai-mock-interview-2jlkx7wyi-mayank-sahus-projects-40c29341.vercel.app
+
 ---
 
 ### 📊 Health Insurance Prediction App  
@@ -48,6 +50,7 @@ PostgreSQL | MongoDB | Firebase | AWS (EC2, S3)
 - Built full pipeline: preprocessing → training → deployment  
 - Deployed using Streamlit  
 
+👉 https://health-insurance-app-isz9gdncbwhrkgtjeb73ef.streamlit.app
 ---
 
 ## 🏆 Achievements
